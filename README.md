@@ -1,5 +1,7 @@
 # CalculatorASTUsingYACC
-The code are ready to compile and execute using LINUX based operating system using predefined commands .install YACC AND LEX in order compile these files.
+I have written code to convert BNF or CFG grammer to YACC and generate AST using YACC and LEX.
+
+Uploaded codes are ready to compile and execute using LINUX based operating system using predefined commands .install YACC AND LEX in order compile these files.
 Do all below steps in directory where two code files are saved :
 
 1) To install Lex package:
